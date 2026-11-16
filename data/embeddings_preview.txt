@@ -41,5 +41,5 @@ Scheme: HDFC Large Cap Fund Direct Growth
 Section: Fund Administration, AUM & RTA
 Total Vector Dimensions: 384
 First 10 Dimensions:
-  [0.082083, -0.079254, -0.112728, 0.018427, 0.084563, -0.00322, 0.027581, 0.078854, -0.057633, 0.064582]
-Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Fund House: HDFC Mutual Fund. Fund Manager: Prashant Jain...
+  [0.079351, -0.066729, -0.109803, 0.02345, 0.086857, -0.010459, 0.02065, 0.077374, -0.057031, 0.062515]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Fund House: HDFC Mutual Fund. Fund Manager: Rahul Baijal ...
