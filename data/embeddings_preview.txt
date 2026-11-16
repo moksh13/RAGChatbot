@@ -1,0 +1,45 @@
+================================================================================
+EMBEDDINGS PREVIEW (First 5 Chunks, First 10 Dimensions of 384)
+Model: sentence-transformers/all-MiniLM-L6-v2
+Full Dimension: 384
+================================================================================
+
+--- Chunk 1: hdfc_large_cap_chunk_01 ---
+Scheme: HDFC Large Cap Fund Direct Growth
+Section: Expense Ratio, Exit Load & NAV
+Total Vector Dimensions: 384
+First 10 Dimensions:
+  [0.074662, -0.055275, -0.067078, 0.003306, 0.116563, -0.012416, 0.031159, 0.080028, -0.074488, 0.044883]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Net Asset Value (NAV): ₹1,264.56 (as of mid-November 2026...
+
+--- Chunk 2: hdfc_large_cap_chunk_02 ---
+Scheme: HDFC Large Cap Fund Direct Growth
+Section: Investment Minimums & Lock-in Period
+Total Vector Dimensions: 384
+First 10 Dimensions:
+  [0.045277, -0.054655, -0.116903, -0.009302, 0.059478, 0.00172, 0.043961, 0.052947, -0.032665, 0.028269]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Minimum SIP Investment: ₹100. Minimum Lumpsum Purchase: ₹...
+
+--- Chunk 3: hdfc_large_cap_chunk_03 ---
+Scheme: HDFC Large Cap Fund Direct Growth
+Section: Riskometer Rating & Benchmark
+Total Vector Dimensions: 384
+First 10 Dimensions:
+  [0.071285, -0.077481, -0.106525, 0.016782, 0.141699, 0.01274, -0.00248, 0.044303, -0.072418, 0.025272]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Riskometer Classification: Very High Risk. Benchmark Inde...
+
+--- Chunk 4: hdfc_large_cap_chunk_04 ---
+Scheme: HDFC Large Cap Fund Direct Growth
+Section: Capital Gains Taxation & Rules
+Total Vector Dimensions: 384
+First 10 Dimensions:
+  [0.085445, -0.080209, -0.035205, -0.015212, 0.121822, 0.033299, 0.024872, 0.077977, -0.087238, 0.052186]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Taxation Details: Equity taxation: Short Term Capital Gai...
+
+--- Chunk 5: hdfc_large_cap_chunk_05 ---
+Scheme: HDFC Large Cap Fund Direct Growth
+Section: Fund Administration, AUM & RTA
+Total Vector Dimensions: 384
+First 10 Dimensions:
+  [0.082083, -0.079254, -0.112728, 0.018427, 0.084563, -0.00322, 0.027581, 0.078854, -0.057633, 0.064582]
+Text Snippet: Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Fund House: HDFC Mutual Fund. Fund Manager: Prashant Jain...

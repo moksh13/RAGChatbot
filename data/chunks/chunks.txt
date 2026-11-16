@@ -1,0 +1,344 @@
+================================================================================
+MUTUAL FUND RAG CHUNKS AUDIT REPOSITORY (34 TOTAL CHUNKS)
+Generated for: Class Demonstration & Inspection
+================================================================================
+
+--------------------------------------------------------------------------------
+[Chunk 1 of 34] | ID: hdfc_large_cap_chunk_01
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Expense Ratio, Exit Load & NAV
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 506 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Net Asset Value (NAV): ₹1,264.56 (as of mid-November 2026; subject to daily market fluctuations). Expense Ratio: 1.00% (inclusive of GST). Exit Load: 1.00% if redeemed or switched out within 1 year (365 days) from the date of allotment; Nil after 1 year.. Stamp Duty: 0.005% on mutual fund purchase from July 1st, 2020. Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 2 of 34] | ID: hdfc_large_cap_chunk_02
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Investment Minimums & Lock-in Period
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 328 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Minimum SIP Investment: ₹100. Minimum Lumpsum Purchase: ₹100. Lock-in Period: Nil (Open-ended equity fund with no mandatory lock-in period).  Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 3 of 34] | ID: hdfc_large_cap_chunk_03
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Riskometer Rating & Benchmark
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 317 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Riskometer Classification: Very High Risk. Benchmark Index: NIFTY 100 Total Return Index (TRI). Category: Large Cap Equity Scheme. Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 4 of 34] | ID: hdfc_large_cap_chunk_04
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Capital Gains Taxation & Rules
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 408 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Taxation Details: Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.. Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 5 of 34] | ID: hdfc_large_cap_chunk_05
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Fund Administration, AUM & RTA
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 407 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Fund House: HDFC Mutual Fund. Fund Manager: Prashant Jain / Rahul Baijal. Total AUM: ₹37,466 Crore. Inception Date: 01-Jan-2013. Registrar (RTA): CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com. Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 6 of 34] | ID: hdfc_large_cap_chunk_06
+Scheme: HDFC Large Cap Fund Direct Growth
+Category: Equity: Large Cap
+Section: Net Asset Value (NAV) & Daily Pricing
+Source URL: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Character Count: 517 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Large Cap Fund Direct Growth (Equity: Large Cap). Net Asset Value (NAV): ₹1,264.56 (as of mid-November 2026; subject to daily market fluctuations). NAV Details & Valuation: The Net Asset Value represents the per-unit market price of the fund. NAV fluctuates daily on business days based on market performance of underlying holdings and is published at the end of each trading day. Official source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 7 of 34] | ID: hdfc_flexi_cap_chunk_01
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Expense Ratio, Exit Load & NAV
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 491 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Net Asset Value (NAV): ₹2,363.76 (as of mid-November 2026; subject to daily market fluctuations). Expense Ratio: 0.74% (inclusive of GST). Exit Load: 1.00% if redeemed or switched out within 1 year (365 days) from the date of allotment; Nil after 1 year.. Stamp Duty: 0.005% on purchase from July 1st, 2020. Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 8 of 34] | ID: hdfc_flexi_cap_chunk_02
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Investment Minimums & Lock-in Period
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 325 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Minimum SIP Investment: ₹100. Minimum Lumpsum Purchase: ₹100. Lock-in Period: Nil (Open-ended equity fund with no mandatory lock-in period).  Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 9 of 34] | ID: hdfc_flexi_cap_chunk_03
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Riskometer Rating & Benchmark
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 314 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Riskometer Classification: Very High Risk. Benchmark Index: NIFTY 500 Total Return Index (TRI). Category: Flexi Cap Equity Scheme. Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 10 of 34] | ID: hdfc_flexi_cap_chunk_04
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Capital Gains Taxation & Rules
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 405 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Taxation Details: Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.. Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 11 of 34] | ID: hdfc_flexi_cap_chunk_05
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Fund Administration, AUM & RTA
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 404 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Fund House: HDFC Mutual Fund. Fund Manager: Prashant Jain / Roshi Jain. Total AUM: ₹1,10,441 Crore. Inception Date: 01-Jan-2013. Registrar (RTA): CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com. Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 12 of 34] | ID: hdfc_flexi_cap_chunk_06
+Scheme: HDFC Flexi Cap Direct Plan Growth
+Category: Equity: Flexi Cap
+Section: Net Asset Value (NAV) & Daily Pricing
+Source URL: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Character Count: 514 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Flexi Cap Direct Plan Growth (Equity: Flexi Cap). Net Asset Value (NAV): ₹2,363.76 (as of mid-November 2026; subject to daily market fluctuations). NAV Details & Valuation: The Net Asset Value represents the per-unit market price of the fund. NAV fluctuates daily on business days based on market performance of underlying holdings and is published at the end of each trading day. Official source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 13 of 34] | ID: hdfc_elss_tax_saver_chunk_01
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Expense Ratio, Exit Load & NAV
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 531 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Net Asset Value (NAV): ₹1,546.95 (as of mid-November 2026; subject to daily market fluctuations). Expense Ratio: 1.18% (inclusive of GST). Exit Load: Nil (No exit load applicable once the mandatory 3-year lock-in expires; premature redemption is prohibited by law). Stamp Duty: 0.005% on purchase from July 1st, 2020. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 14 of 34] | ID: hdfc_elss_tax_saver_chunk_02
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Investment Minimums & Lock-in Period
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 479 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Minimum SIP Investment: ₹500. Minimum Lumpsum Purchase: ₹500. Lock-in Period: 3 Years statutory lock-in period. Each SIP installment carries its own independent 3-year lock-in period from date of allotment.. Tax deduction eligible up to ₹1.5 Lakh under Section 80C. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 15 of 34] | ID: hdfc_elss_tax_saver_chunk_03
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Riskometer Rating & Benchmark
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 356 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Riskometer Classification: Very High Risk. Benchmark Index: NIFTY 500 Total Return Index (TRI). Category: ELSS - Equity Linked Savings Scheme. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 16 of 34] | ID: hdfc_elss_tax_saver_chunk_04
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Capital Gains Taxation & Rules
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 446 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Taxation Details: Qualifies for tax deduction under Section 80C up to ₹1,50,000 per financial year. On redemption after completion of 3-year lock-in, LTCG is taxed at 12.5% on capital gains exceeding ₹1.25 Lakh in a financial year.. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 17 of 34] | ID: hdfc_elss_tax_saver_chunk_05
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Fund Administration, AUM & RTA
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 433 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Fund House: HDFC Mutual Fund. Fund Manager: Vinay Kulkarni / Roshi Jain. Total AUM: ₹15,108 Crore. Inception Date: 01-Jan-2013. Registrar (RTA): CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 18 of 34] | ID: hdfc_elss_tax_saver_chunk_06
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth
+Category: Equity: ELSS (Tax Saver)
+Section: Net Asset Value (NAV) & Daily Pricing
+Source URL: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Character Count: 544 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth (Equity: ELSS (Tax Saver)). Net Asset Value (NAV): ₹1,546.95 (as of mid-November 2026; subject to daily market fluctuations). NAV Details & Valuation: The Net Asset Value represents the per-unit market price of the fund. NAV fluctuates daily on business days based on market performance of underlying holdings and is published at the end of each trading day. Official source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 19 of 34] | ID: hdfc_small_cap_chunk_01
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Expense Ratio, Exit Load & NAV
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 492 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Net Asset Value (NAV): ₹156.58 (as of mid-November 2026; subject to daily market fluctuations). Expense Ratio: 0.79% (inclusive of GST). Exit Load: 1.00% if redeemed or switched out within 1 year (365 days) from the date of allotment; Nil after 1 year.. Stamp Duty: 0.005% on purchase from July 1st, 2020. Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 20 of 34] | ID: hdfc_small_cap_chunk_02
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Investment Minimums & Lock-in Period
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 328 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Minimum SIP Investment: ₹100. Minimum Lumpsum Purchase: ₹100. Lock-in Period: Nil (Open-ended equity fund with no mandatory lock-in period).  Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 21 of 34] | ID: hdfc_small_cap_chunk_03
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Riskometer Rating & Benchmark
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 324 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Riskometer Classification: Very High Risk. Benchmark Index: BSE 250 SmallCap Total Return Index (TRI). Category: Small Cap Equity Scheme. Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 22 of 34] | ID: hdfc_small_cap_chunk_04
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Capital Gains Taxation & Rules
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 408 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Taxation Details: Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.. Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 23 of 34] | ID: hdfc_small_cap_chunk_05
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Fund Administration, AUM & RTA
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 394 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Fund House: HDFC Mutual Fund. Fund Manager: Chirag Setalvad. Total AUM: ₹38,960 Crore. Inception Date: 01-Jan-2013. Registrar (RTA): CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com. Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 24 of 34] | ID: hdfc_small_cap_chunk_06
+Scheme: HDFC Small Cap Fund Direct Growth
+Category: Equity: Small Cap
+Section: Net Asset Value (NAV) & Daily Pricing
+Source URL: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Character Count: 515 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Small Cap Fund Direct Growth (Equity: Small Cap). Net Asset Value (NAV): ₹156.58 (as of mid-November 2026; subject to daily market fluctuations). NAV Details & Valuation: The Net Asset Value represents the per-unit market price of the fund. NAV fluctuates daily on business days based on market performance of underlying holdings and is published at the end of each trading day. Official source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 25 of 34] | ID: hdfc_balanced_advantage_chunk_01
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Expense Ratio, Exit Load & NAV
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 645 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Net Asset Value (NAV): ₹581.69 (as of mid-November 2026; subject to daily market fluctuations). Expense Ratio: 0.76% (inclusive of GST). Exit Load: For units in excess of 15% of the investment, an exit load of 1.00% is charged for redemption within 1 year (365 days). Nil exit load for redemption up to 15% of units within 1 year, and Nil for all redemptions after 1 year.. Stamp Duty: 0.005% on purchase from July 1st, 2020. Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 26 of 34] | ID: hdfc_balanced_advantage_chunk_02
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Investment Minimums & Lock-in Period
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 369 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Minimum SIP Investment: ₹100. Minimum Lumpsum Purchase: ₹100. Lock-in Period: Nil (Open-ended dynamic hybrid fund with no mandatory lock-in period).  Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 27 of 34] | ID: hdfc_balanced_advantage_chunk_03
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Riskometer Rating & Benchmark
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 389 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Riskometer Classification: Very High Risk. Benchmark Index: NIFTY 50 Hybrid Composite Debt 50:50 Index. Category: Dynamic Asset Allocation / Balanced Advantage (Hybrid). Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 28 of 34] | ID: hdfc_balanced_advantage_chunk_04
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Capital Gains Taxation & Rules
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 478 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Taxation Details: Taxed as an equity-oriented hybrid mutual fund scheme (maintains >65% gross equity exposure through hedged and unhedged positions). STCG is taxed at 20% if held <= 1 year; LTCG is taxed at 12.5% for gains above ₹1.25 Lakh if held > 1 year.. Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 29 of 34] | ID: hdfc_balanced_advantage_chunk_05
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Fund Administration, AUM & RTA
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 466 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Fund House: HDFC Mutual Fund. Fund Manager: Gopal Agrawal / Srinivasan Ramamurthy / Anil Bamboli. Total AUM: ₹1,01,431 Crore. Inception Date: 01-Jan-2013. Registrar (RTA): CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com. Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 30 of 34] | ID: hdfc_balanced_advantage_chunk_06
+Scheme: HDFC Balanced Advantage Fund Direct Growth
+Category: Hybrid: Dynamic Asset Allocation
+Section: Net Asset Value (NAV) & Daily Pricing
+Source URL: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+Character Count: 548 chars
+--------------------------------------------------------------------------------
+Scheme: HDFC Balanced Advantage Fund Direct Growth (Hybrid: Dynamic Asset Allocation). Net Asset Value (NAV): ₹581.69 (as of mid-November 2026; subject to daily market fluctuations). NAV Details & Valuation: The Net Asset Value represents the per-unit market price of the fund. NAV fluctuates daily on business days based on market performance of underlying holdings and is published at the end of each trading day. Official source: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 31 of 34] | ID: statement_guide_chunk_01
+Scheme: Mutual Fund Capital Gains & Account Statement Guide
+Category: Investor Services: Statements & Tax Documents
+Section: HDFC Mutual Fund Website Statement Download
+Source URL: https://www.hdfcfund.com/investor-services/statements
+Character Count: 522 chars
+--------------------------------------------------------------------------------
+How to Download Capital Gains Statement from HDFC Mutual Fund Portal: Visit official portal (https://www.hdfcfund.com/investor-services/statements) -> Go to 'Investor Services' -> Click 'Statements & Certificates' -> Select 'Capital Gain Statement' -> Enter registered Folio Number or PAN -> Authenticate via OTP sent to registered mobile/email -> Select Financial Year -> Download statement as PDF or Excel. Official source: https://www.hdfcfund.com/investor-services/statements. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 32 of 34] | ID: statement_guide_chunk_02
+Scheme: Mutual Fund Capital Gains & Account Statement Guide
+Category: Investor Services: Statements & Tax Documents
+Section: CAMS Portal Capital Gains & CAS Download
+Source URL: https://www.hdfcfund.com/investor-services/statements
+Character Count: 496 chars
+--------------------------------------------------------------------------------
+How to Download Capital Gains Statement and Consolidated Account Statement (CAS) via CAMS Portal: Go to CAMS Online (www.camsonline.com) -> 'Investor Services' -> 'Statements' -> 'Capital Gains / Consolidated Account Statement (CAS)'. Provide registered email address and PAN, then select the financial year. A password-protected encrypted PDF is emailed to your registered address. Official source: https://www.hdfcfund.com/investor-services/statements. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 33 of 34] | ID: statement_guide_chunk_03
+Scheme: Mutual Fund Capital Gains & Account Statement Guide
+Category: Investor Services: Statements & Tax Documents
+Section: Groww App Capital Gains Statement Download
+Source URL: https://www.hdfcfund.com/investor-services/statements
+Character Count: 470 chars
+--------------------------------------------------------------------------------
+How to Download Capital Gains Statement on Groww: Open the Groww application or website -> Click your Profile picture -> Navigate to 'Reports' section -> Select 'Capital Gains Statement' and choose 'Mutual Funds' -> Select the desired Financial Year -> Click 'Download PDF' or 'Send to Email'. The report categorizes Short Term and Long Term capital gains. Official source: https://www.hdfcfund.com/investor-services/statements. Last updated from sources: November 2026.
+
+--------------------------------------------------------------------------------
+[Chunk 34 of 34] | ID: statement_guide_chunk_04
+Scheme: Mutual Fund Capital Gains & Account Statement Guide
+Category: Investor Services: Statements & Tax Documents
+Section: Mutual Fund Statements Overview & Security
+Source URL: https://www.hdfcfund.com/investor-services/statements
+Character Count: 472 chars
+--------------------------------------------------------------------------------
+Consolidated Account Statement (CAS) and Capital Gains Statements Overview: CAS aggregates all mutual fund holdings across all fund houses (AMCs) linked to a single PAN. All tax statements segregate Short Term Capital Gains (STCG) and Long Term Capital Gains (LTCG) for income tax filing. Statements are password-encrypted using your PAN in uppercase or DOB. Official source: https://www.hdfcfund.com/investor-services/statements. Last updated from sources: November 2026.

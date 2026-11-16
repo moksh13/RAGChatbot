@@ -1,0 +1,19 @@
+{
+  "id": "statement_guide",
+  "scheme_name": "Mutual Fund Capital Gains & Account Statement Guide",
+  "short_name": "Statement Guide",
+  "category": "Investor Services: Statements & Tax Documents",
+  "source_url": "https://www.hdfcfund.com/investor-services/statements",
+  "official_sid_url": "https://www.camsonline.com",
+  "last_updated": "Last updated from sources: November 2026",
+  "facts": {
+    "document_types": "Consolidated Account Statement (CAS), Capital Gains Statement, Transaction Summary, Holding Statement",
+    "cams_portal_steps": "Visit www.camsonline.com -> Click 'Investor Services' -> Select 'Consolidated Account Statement (CAS)' or 'Capital Gains Statement' -> Enter registered email ID, PAN, and select Financial Year -> PDF statement is emailed with password protection (PAN in uppercase or password sent in email).",
+    "kfintech_portal_steps": "Visit mfs.kfintech.com -> Investor Services -> Generate Capital Gains Statement / CAS by entering PAN and registered email address.",
+    "hdfc_mf_portal_steps": "Visit www.hdfcfund.com -> Go to 'Investor Services' -> Click 'Statements & Certificates' -> Select 'Capital Gains Statement' -> Enter PAN and Folio Number or login via OTP -> Download PDF or Excel statement.",
+    "groww_portal_steps": "Open Groww app / website -> Click Profile Picture -> Go to 'Reports' -> Select 'Capital Gains Statement' -> Choose 'Mutual Funds' and the relevant Financial Year (e.g. FY 2023-24, FY 2024-25) -> Click 'Download' or 'Email Report'.",
+    "cas_overview": "Consolidated Account Statement (CAS) aggregates all mutual fund holdings across all AMCs (HDFC, SBI, ICICI, etc.) linked to a single PAN. CAS is generated monthly by depositories (NSDL/CDSL) and RTAs (CAMS/KFintech).",
+    "pan_requirement": "PAN and registered email address are required on official portals to generate tax and account statements. Statements are delivered as encrypted PDFs."
+  },
+  "raw_text": "Document: Mutual Fund Capital Gains & Account Statement Download Guide\nSource URL: https://www.hdfcfund.com/investor-services/statements\nCategory: Investor Services - Statements & Tax Documents\nHow to Download Capital Gains Statement from HDFC Mutual Fund Official Website:\n1. Visit the official HDFC Mutual Fund investor portal: https://www.hdfcfund.com/investor-services/statements.\n2. Navigate to 'Investor Services' and click on 'Statements & Certificates'.\n3. Select 'Capital Gain Statement' or 'Account Statement'.\n4. Enter your registered Folio Number or PAN and authenticate via One-Time Password (OTP) sent to your registered mobile/email.\n5. Select the relevant Financial Year and download the statement as PDF or Excel.\n\nHow to Download Consolidated Account Statement (CAS) via CAMS Portal:\n1. Go to CAMS Online (www.camsonline.com) -> 'Investor Services' -> 'Statements' -> 'Capital Gains / Consolidated Account Statement (CAS)'.\n2. Provide your registered email address, PAN, and select statement period (e.g., Specific Financial Year).\n3. Submit the request. A password-protected PDF statement is automatically emailed to your registered email address.\n\nHow to Download Capital Gains Statement on Groww:\n1. Open Groww web or mobile app and click on your Profile picture.\n2. Navigate to 'Reports' section.\n3. Select 'Capital Gains Statement' and choose 'Mutual Funds'.\n4. Select the desired financial year and click 'Download PDF' or 'Send to Email'.\n\nImportant Notes on Statements:\n- Capital gains statements clearly segregate Short Term Capital Gains (STCG) and Long Term Capital Gains (LTCG) for income tax filing.\n- Statements are encrypted with a password (typically your PAN in uppercase or date of birth in DDMMYYYY format).\nLast updated from sources: November 2026."
+}

@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.local
+
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# ChromaDB persistence directory
+data/chroma_db/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary artifacts
+tmp/
+*.log

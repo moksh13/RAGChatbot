@@ -1,0 +1,25 @@
+Document: Mutual Fund Capital Gains & Account Statement Download Guide
+Source URL: https://www.hdfcfund.com/investor-services/statements
+Category: Investor Services - Statements & Tax Documents
+How to Download Capital Gains Statement from HDFC Mutual Fund Official Website:
+1. Visit the official HDFC Mutual Fund investor portal: https://www.hdfcfund.com/investor-services/statements.
+2. Navigate to 'Investor Services' and click on 'Statements & Certificates'.
+3. Select 'Capital Gain Statement' or 'Account Statement'.
+4. Enter your registered Folio Number or PAN and authenticate via One-Time Password (OTP) sent to your registered mobile/email.
+5. Select the relevant Financial Year and download the statement as PDF or Excel.
+
+How to Download Consolidated Account Statement (CAS) via CAMS Portal:
+1. Go to CAMS Online (www.camsonline.com) -> 'Investor Services' -> 'Statements' -> 'Capital Gains / Consolidated Account Statement (CAS)'.
+2. Provide your registered email address, PAN, and select statement period (e.g., Specific Financial Year).
+3. Submit the request. A password-protected PDF statement is automatically emailed to your registered email address.
+
+How to Download Capital Gains Statement on Groww:
+1. Open Groww web or mobile app and click on your Profile picture.
+2. Navigate to 'Reports' section.
+3. Select 'Capital Gains Statement' and choose 'Mutual Funds'.
+4. Select the desired financial year and click 'Download PDF' or 'Send to Email'.
+
+Important Notes on Statements:
+- Capital gains statements clearly segregate Short Term Capital Gains (STCG) and Long Term Capital Gains (LTCG) for income tax filing.
+- Statements are encrypted with a password (typically your PAN in uppercase or date of birth in DDMMYYYY format).
+Last updated from sources: November 2026.
