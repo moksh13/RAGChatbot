@@ -106,8 +106,8 @@ This repository is configured for direct deployment on Render:
 2. Create a new **Web Service**.
 3. Configure the service:
    - **Environment:** `Python`
-   - **Build Command:** `pip install -r requirements.txt && python -m src.ingest`
-   - **Start Command:** `PYTHONPATH=. streamlit run src/app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true`
+   - **Build Command:** `pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu && pip install -r requirements.txt && python -m src.ingest`
+   - **Start Command:** `python run.py`
 4. Add Environment Variable:
    - `GROQ_API_KEY`: `<your_groq_api_key>`
    - `GROQ_MODEL`: `openai/gpt-oss-120b`

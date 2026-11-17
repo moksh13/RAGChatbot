@@ -40,7 +40,12 @@ st.set_page_config(
 @st.cache_resource(show_spinner="Initializing Vector DB and Embedding Model...")
 def get_rag_engine() -> RAGEngine:
     """Caches the RAG engine instance so it initializes only once on server startup."""
-    return RAGEngine()
+    rag_engine = RAGEngine()
+    # Self-healing: If ChromaDB was not preserved across cloud build steps, populate it now
+    if rag_engine.vector_store.count() == 0:
+        from src.ingest import run_ingestion
+        run_ingestion()
+    return rag_engine
 
 
 # Initialize Engine and Session State
