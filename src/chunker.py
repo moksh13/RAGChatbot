@@ -149,6 +149,54 @@ class SchemeChunker:
                         f"Official source: {source_url}. {last_updated}."
                     ),
                 },
+                {
+                    "title": "Top Portfolio Holdings & Stock Concentration",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Top Portfolio Holdings: {facts.get('top_holdings', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
+                {
+                    "title": "Sector Allocation & Industry Weightage",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Sector Breakdown & Allocation: {facts.get('sector_allocation', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
+                {
+                    "title": "Asset Allocation & Market Cap Mix",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Asset Allocation (Equity vs Debt vs Cash): {facts.get('asset_allocation', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
+                {
+                    "title": "Portfolio Valuation (P/E, P/B), Ratios & Turnover",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Key Ratios & Portfolio Valuation: {facts.get('key_ratios', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
+                {
+                    "title": "Trading Cut-off Times (3 PM) & Redemption Settlement (T+2)",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Trading, Cut-off and Settlement Rules: {facts.get('trading_and_settlement', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
+                {
+                    "title": "HDFC AMC Corporate Details & Investor Helpdesk",
+                    "content": (
+                        f"Scheme: {scheme_name} ({category}). "
+                        f"Corporate Information & Contact Details: {facts.get('amc_details', 'N/A')}. "
+                        f"Official source: {source_url}. {last_updated}."
+                    ),
+                },
             ]
 
         for idx, sec in enumerate(sections, start=1):

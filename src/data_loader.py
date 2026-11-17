@@ -36,6 +36,12 @@ SCHEME_SOURCES: List[Dict[str, Any]] = [
             "stamp_duty": "0.005% on mutual fund purchase from July 1st, 2020",
             "taxation": "Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.",
             "rta_details": "CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com",
+            "top_holdings": "ICICI Bank Ltd (10.30%), Bharti Airtel Ltd (7.23%), HDFC Bank Ltd (7.17%), Kotak Mahindra Bank Ltd (6.70%), Titan Company Ltd (4.88%), Torrent Pharmaceuticals Ltd (3.92%), Axis Bank Ltd (3.48%), Reliance Industries Ltd (3.12%), Bajaj Finserv Ltd (2.93%), Eternal Ltd (2.78%). Portfolio holds ~47 stocks with top 5 concentration of 36.28% and top 10 concentration of 53.16%.",
+            "sector_allocation": "Financial Services (32.5%), Information Technology (9.8%), Consumer Discretionary & FMCG (8.5%), Telecommunication (7.2%), Healthcare & Pharmaceuticals (6.5%), Energy & Utilities (5.9%).",
+            "asset_allocation": "Equity: 98.6% (predominantly Giant and Large Cap companies), Cash & Cash Equivalents (TREPS / Reverse Repo): 1.4%.",
+            "key_ratios": "Portfolio P/E Ratio: 24.37, Portfolio P/B Ratio: 3.55, Sharpe Ratio: 0.27, Alpha: -0.13, Portfolio Turnover: ~28%.",
+            "trading_and_settlement": "Cut-off Timing (SEBI): 3:00 PM IST on business days for subscription and redemption. Redemption Settlement Cycle: T+2 business days credited directly to registered bank account. Minimum additional purchase: ₹100.",
+            "amc_details": "Fund House: HDFC Asset Management Company Ltd. (HDFC AMC). MD & CEO: Navneet Munot. Total AMC AUM: > ₹6,00,000 Crore. Head Office: HDFC House, H.T. Parekh Marg, Churchgate, Mumbai - 400 020. Toll-Free: 1800 3010 6767 / 1800 419 7676, Email: hello@hdfcfund.com.",
         },
         "raw_text": (
             "Scheme Name: HDFC Large Cap Fund Direct Growth\n"
@@ -83,6 +89,12 @@ SCHEME_SOURCES: List[Dict[str, Any]] = [
             "stamp_duty": "0.005% on purchase from July 1st, 2020",
             "taxation": "Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.",
             "rta_details": "CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com",
+            "top_holdings": "ICICI Bank Ltd (~9.28%), HDFC Bank Ltd (~5.79%), Axis Bank Ltd (~5.55%), State Bank of India (~3.88%), Eternal Ltd (~3.76%), Kotak Mahindra Bank Ltd, Bharti Airtel Ltd, Larsen & Toubro Ltd, SBI Life Insurance. Portfolio holds ~55 stocks with high active share across large, mid and small cap companies.",
+            "sector_allocation": "Financial Services (~31.2%), Healthcare & Pharmaceuticals (~12.8%), Automobile & Auto Components (~11.6%), Consumer Services & Retail (~8.5%), Information Technology (~5.2%), Construction & Capital Goods (~4.8%).",
+            "asset_allocation": "Equity: 98.4% (Market Cap Distribution: Large Cap ~72%, Mid Cap ~15%, Small Cap ~11%), Cash & Margin Money: 1.6%.",
+            "key_ratios": "Portfolio P/E Ratio: ~25.10, Portfolio P/B Ratio: ~3.80, Sharpe Ratio: ~0.42, Beta: ~0.94, Portfolio Turnover: ~35%.",
+            "trading_and_settlement": "Cut-off Timing (SEBI): 3:00 PM IST on business days for subscription and redemption. Redemption Settlement Cycle: T+2 business days credited directly to registered bank account. Minimum additional purchase: ₹100.",
+            "amc_details": "Fund House: HDFC Asset Management Company Ltd. (HDFC AMC). MD & CEO: Navneet Munot. Total AMC AUM: > ₹6,00,000 Crore. Head Office: HDFC House, H.T. Parekh Marg, Churchgate, Mumbai - 400 020. Toll-Free: 1800 3010 6767 / 1800 419 7676, Email: hello@hdfcfund.com.",
         },
         "raw_text": (
             "Scheme Name: HDFC Flexi Cap Direct Plan Growth (HDFC Flexi Cap Fund)\n"
@@ -131,6 +143,12 @@ SCHEME_SOURCES: List[Dict[str, Any]] = [
             "stamp_duty": "0.005% on purchase from July 1st, 2020",
             "taxation": "Qualifies for tax deduction under Section 80C up to ₹1,50,000 per financial year. On redemption after completion of 3-year lock-in, LTCG is taxed at 12.5% on capital gains exceeding ₹1.25 Lakh in a financial year.",
             "rta_details": "CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com",
+            "top_holdings": "ICICI Bank Ltd (~9.50%), HDFC Bank Ltd (~8.50%), Axis Bank Ltd (~6.80%), Kotak Mahindra Bank Ltd (~5.10%), Bharti Airtel Ltd (~5.00%), Cipla Ltd (~4.80%), State Bank of India (~3.70%), Larsen & Toubro Ltd (~3.20%). Portfolio holds ~45 stocks with a large-cap quality bias for steady tax-saving compounding.",
+            "sector_allocation": "Financial Services & Banks (~32.0%), Automobile & Auto Ancillaries (~10.5%), Healthcare & Pharma (~7.8%), Information Technology (~7.0%), Telecommunication (~6.5%), Energy & Utilities (~5.4%).",
+            "asset_allocation": "Equity: 98.9% (Market Cap Breakdown: Large Cap ~75%, Mid Cap ~14%, Small Cap ~10%), Cash & Money Market: 1.1%.",
+            "key_ratios": "Portfolio P/E Ratio: ~23.80, Portfolio P/B Ratio: ~3.40, Sharpe Ratio: ~0.35, Beta: ~0.96, Portfolio Turnover: ~24%.",
+            "trading_and_settlement": "Cut-off Timing (SEBI): 3:00 PM IST on business days for subscription. Redemption: Permitted only after completion of 3-year statutory lock-in (36 months). Redemption Settlement Cycle: T+2 business days credited directly to registered bank account. Minimum additional purchase: ₹500.",
+            "amc_details": "Fund House: HDFC Asset Management Company Ltd. (HDFC AMC). MD & CEO: Navneet Munot. Total AMC AUM: > ₹6,00,000 Crore. Head Office: HDFC House, H.T. Parekh Marg, Churchgate, Mumbai - 400 020. Toll-Free: 1800 3010 6767 / 1800 419 7676, Email: hello@hdfcfund.com.",
         },
         "raw_text": (
             "Scheme Name: HDFC ELSS Tax Saver Fund Direct Plan Growth\n"
@@ -178,6 +196,12 @@ SCHEME_SOURCES: List[Dict[str, Any]] = [
             "stamp_duty": "0.005% on purchase from July 1st, 2020",
             "taxation": "Equity taxation: Short Term Capital Gains (STCG) taxed at 20% if held for <= 1 year. Long Term Capital Gains (LTCG) taxed at 12.5% for gains exceeding ₹1.25 Lakh per financial year if held for > 1 year.",
             "rta_details": "CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com",
+            "top_holdings": "Firstsource Solutions Ltd (~4.00%), Bank of Baroda (~2.80%), eClerx Services Ltd (~2.70%), Sonata Software Ltd (~1.20%), Finolex Industries Ltd, Aster DM Healthcare Ltd, Kalpataru Projects International Ltd, SKF India Ltd. Portfolio maintains high diversification across 60+ small-cap stocks with bottom-up fundamental selection.",
+            "sector_allocation": "Services & IT Solutions (~21.0%), Capital Goods & Industrials (~18.5%), Financial Services (~14.2%), Consumer Discretionary (~12.8%), Healthcare & Chemicals (~11.0%).",
+            "asset_allocation": "Equity: 94.2% (Small Cap ~70%, Mid Cap ~20%, Large Cap ~4%), Cash & Debt Buffer (TREPS / Reverse Repo): 5.8% for liquidity and opportunistic deployments.",
+            "key_ratios": "Portfolio P/E Ratio: ~26.50, Portfolio P/B Ratio: ~4.10, Sharpe Ratio: ~0.58, Beta: ~0.82, Portfolio Turnover: ~18%.",
+            "trading_and_settlement": "Cut-off Timing (SEBI): 3:00 PM IST on business days for subscription and redemption. Redemption Settlement Cycle: T+2 business days credited directly to registered bank account. Minimum additional purchase: ₹100.",
+            "amc_details": "Fund House: HDFC Asset Management Company Ltd. (HDFC AMC). MD & CEO: Navneet Munot. Total AMC AUM: > ₹6,00,000 Crore. Head Office: HDFC House, H.T. Parekh Marg, Churchgate, Mumbai - 400 020. Toll-Free: 1800 3010 6767 / 1800 419 7676, Email: hello@hdfcfund.com.",
         },
         "raw_text": (
             "Scheme Name: HDFC Small Cap Fund Direct Growth\n"
@@ -225,6 +249,12 @@ SCHEME_SOURCES: List[Dict[str, Any]] = [
             "stamp_duty": "0.005% on purchase from July 1st, 2020",
             "taxation": "Taxed as an equity-oriented hybrid mutual fund scheme (maintains >65% gross equity exposure through hedged and unhedged positions). STCG is taxed at 20% if held <= 1 year; LTCG is taxed at 12.5% for gains above ₹1.25 Lakh if held > 1 year.",
             "rta_details": "CAMS (Computer Age Management Services Ltd.), website: www.camsonline.com",
+            "top_holdings": "Equity Holdings: ICICI Bank Ltd, HDFC Bank Ltd, Reliance Industries Ltd, State Bank of India, Larsen & Toubro Ltd, Bharti Airtel Ltd, Axis Bank Ltd, NTPC Ltd, Coal India Ltd. Debt & Fixed Income Holdings: Government of India Sovereign Securities (G-Secs, 7.18% GS 2033), Treasury Bills (91/182 Days), and AAA/AA+ rated corporate bonds.",
+            "sector_allocation": "Equity Sector Allocation: Financial Services (~24%), Energy & Power (~10%), Industrials & Capital Goods (~8%), Consumer (~7%). Debt Allocation: Sovereign Government Securities (~20%), Corporate Debt & Money Market (~10%).",
+            "asset_allocation": "Dynamic Asset Allocation: Gross Equity ~65% to 75% (maintains equity taxation status with derivatives hedge), Debt & Fixed Income ~25% to 30%, Cash, Arbitrage & TREPS ~5%.",
+            "key_ratios": "Portfolio P/E Ratio (Equity Component): ~22.40, Modified Duration (Debt Component): ~2.8 years, Yield to Maturity (YTM): ~7.25%, Sharpe Ratio: ~0.65, Portfolio Turnover: ~42%.",
+            "trading_and_settlement": "Cut-off Timing (SEBI): 3:00 PM IST on business days for subscription and redemption. Redemption Settlement Cycle: T+2 business days credited directly to registered bank account. Minimum additional purchase: ₹100.",
+            "amc_details": "Fund House: HDFC Asset Management Company Ltd. (HDFC AMC). MD & CEO: Navneet Munot. Total AMC AUM: > ₹6,00,000 Crore. Head Office: HDFC House, H.T. Parekh Marg, Churchgate, Mumbai - 400 020. Toll-Free: 1800 3010 6767 / 1800 419 7676, Email: hello@hdfcfund.com.",
         },
         "raw_text": (
             "Scheme Name: HDFC Balanced Advantage Fund Direct Growth\n"
