@@ -17,6 +17,10 @@ __pycache__/
 
 # ChromaDB persistence directory
 data/chroma_db/
+chroma_db/
+*chroma_db*
+*.sqlite3
+*.bin
 
 # IDE & OS files
 .vscode/
