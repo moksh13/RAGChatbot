@@ -107,7 +107,7 @@ This repository is configured for direct deployment on Render:
 3. Configure the service:
    - **Environment:** `Python`
    - **Build Command:** `pip install -r requirements.txt && python -m src.ingest`
-   - **Start Command:** `streamlit run src/app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true`
+   - **Start Command:** `PYTHONPATH=. streamlit run src/app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true`
 4. Add Environment Variable:
    - `GROQ_API_KEY`: `<your_groq_api_key>`
    - `GROQ_MODEL`: `openai/gpt-oss-120b`

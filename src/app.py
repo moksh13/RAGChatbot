@@ -9,8 +9,15 @@ Features:
 - Strict compliance disclaimers: 'Facts-only. No investment advice.'
 """
 
-import streamlit as st
+import sys
+from pathlib import Path
 from typing import List, Dict, Any
+import streamlit as st
+
+# Ensure repository root is on sys.path so 'src.*' imports work on cloud hosts like Render
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 from src.config import (
     STANDARD_DISCLAIMER,
