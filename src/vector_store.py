@@ -28,8 +28,16 @@ class VectorStore:
         collection_name: Optional[str] = None,
         model_name: Optional[str] = None,
     ):
+        import os
+        import gc
+        import torch
         import chromadb
+        from chromadb.config import Settings
         from sentence_transformers import SentenceTransformer
+
+        # Cap PyTorch threads and arenas to strictly stay within Render's 512MB RAM
+        torch.set_num_threads(1)
+        torch.set_num_interop_threads(1)
 
         self.persist_dir = persist_dir or CHROMA_DB_DIR
         self.collection_name = collection_name or CHROMA_COLLECTION_NAME
@@ -38,15 +46,19 @@ class VectorStore:
         # Ensure persistence directory exists
         self.persist_dir.mkdir(parents=True, exist_ok=True)
 
-        # Initialize local SentenceTransformer model
-        self.embedding_model = SentenceTransformer(self.model_name)
+        # Initialize local SentenceTransformer model on CPU
+        self.embedding_model = SentenceTransformer(self.model_name, device="cpu")
 
-        # Initialize persistent ChromaDB client
-        self.client = chromadb.PersistentClient(path=str(self.persist_dir))
+        # Initialize persistent ChromaDB client with telemetry disabled to save memory
+        self.client = chromadb.PersistentClient(
+            path=str(self.persist_dir),
+            settings=Settings(anonymized_telemetry=False)
+        )
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
             metadata={"hnsw:space": "cosine"},
         )
+        gc.collect()
 
     def reset(self) -> None:
         """Clears the collection to allow a fresh re-indexing of chunks."""
@@ -61,13 +73,19 @@ class VectorStore:
 
     def embed_texts(self, texts: List[str]) -> List[List[float]]:
         """Generates 384-dimensional dense vectors for a list of texts."""
-        embeddings = self.embedding_model.encode(
-            texts,
-            show_progress_bar=False,
-            convert_to_numpy=True,
-            normalize_embeddings=True,
-        )
-        return embeddings.tolist()
+        import torch
+        import gc
+        with torch.inference_mode():
+            embeddings = self.embedding_model.encode(
+                texts,
+                show_progress_bar=False,
+                convert_to_numpy=True,
+                normalize_embeddings=True,
+                batch_size=16,
+            )
+        result = embeddings.tolist()
+        gc.collect()
+        return result
 
     def add_chunks(self, chunks: List[Dict[str, Any]]) -> int:
         """Embeds and upserts chunks with their metadata into ChromaDB."""

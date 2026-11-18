@@ -9,8 +9,17 @@ Safely handles:
 
 import os
 import sys
-import subprocess
 from pathlib import Path
+
+# Enforce strict memory-saving controls for Render (512MB RAM limit)
+os.environ["MALLOC_ARENA_MAX"] = "2"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["VECLIB_MAXIMUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["ANONYMIZED_TELEMETRY"] = "False"
 
 # Add project root to sys.path
 PROJECT_ROOT = Path(__file__).resolve().parent
