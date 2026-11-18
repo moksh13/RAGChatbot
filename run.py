@@ -9,6 +9,7 @@ Safely handles:
 
 import os
 import sys
+import subprocess
 from pathlib import Path
 
 # Enforce strict memory-saving controls for Render (512MB RAM limit)
