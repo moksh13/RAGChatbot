@@ -28,26 +28,16 @@ class VectorStore:
         collection_name: Optional[str] = None,
         model_name: Optional[str] = None,
     ):
-        import os
-        import gc
-        import torch
         import chromadb
         from chromadb.config import Settings
-        from sentence_transformers import SentenceTransformer
-
-        # Cap PyTorch threads and arenas to strictly stay within Render's 512MB RAM
-        torch.set_num_threads(1)
-        torch.set_num_interop_threads(1)
 
         self.persist_dir = persist_dir or CHROMA_DB_DIR
         self.collection_name = collection_name or CHROMA_COLLECTION_NAME
         self.model_name = model_name or EMBEDDING_MODEL_NAME
+        self._embedding_model = None
 
         # Ensure persistence directory exists
         self.persist_dir.mkdir(parents=True, exist_ok=True)
-
-        # Initialize local SentenceTransformer model on CPU
-        self.embedding_model = SentenceTransformer(self.model_name, device="cpu")
 
         # Initialize persistent ChromaDB client with telemetry disabled to save memory
         self.client = chromadb.PersistentClient(
@@ -58,7 +48,22 @@ class VectorStore:
             name=self.collection_name,
             metadata={"hnsw:space": "cosine"},
         )
-        gc.collect()
+
+    @property
+    def embedding_model(self):
+        """Lazy-loads SentenceTransformer only when first needed to save startup RAM."""
+        if self._embedding_model is None:
+            import gc
+            import torch
+            from sentence_transformers import SentenceTransformer
+
+            # Cap PyTorch threads to 1 to strictly stay within Render's 512MB RAM
+            torch.set_num_threads(1)
+            torch.set_num_interop_threads(1)
+
+            self._embedding_model = SentenceTransformer(self.model_name, device="cpu")
+            gc.collect()
+        return self._embedding_model
 
     def reset(self) -> None:
         """Clears the collection to allow a fresh re-indexing of chunks."""
@@ -151,4 +156,6 @@ class VectorStore:
                 "similarity": 1.0 - dist if dist is not None else 1.0,
             })
 
+        import gc
+        gc.collect()
         return formatted_results

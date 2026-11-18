@@ -29,12 +29,13 @@ if str(PROJECT_ROOT) not in sys.path:
 os.environ["PYTHONPATH"] = str(PROJECT_ROOT)
 
 if __name__ == "__main__":
+    import streamlit.web.cli as stcli
+
     # Render passes PORT dynamically (defaults to 10000 on Render if unset)
     port = os.environ.get("PORT", "10000")
-    
-    cmd = [
-        sys.executable,
-        "-m",
+    print(f"Starting Streamlit app in-process on 0.0.0.0:{port}...")
+
+    sys.argv = [
         "streamlit",
         "run",
         str(PROJECT_ROOT / "src" / "app.py"),
@@ -51,6 +52,4 @@ if __name__ == "__main__":
         "--browser.gatherUsageStats",
         "false",
     ]
-    
-    print(f"Starting Streamlit app on 0.0.0.0:{port}...")
-    subprocess.run(cmd)
+    sys.exit(stcli.main())

@@ -77,6 +77,10 @@ def run_ingestion() -> int:
     export_embeddings_preview(vs, chunks, preview_path, num_samples=5, num_dims=10)
     print(f"Embeddings preview saved to {preview_path}")
 
+    import gc
+    del vs
+    gc.collect()
+
     return total_in_db
 
 
