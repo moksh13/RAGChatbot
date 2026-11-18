@@ -49,6 +49,8 @@ if __name__ == "__main__":
         "false",
         "--server.enableXsrfProtection",
         "false",
+        "--server.fileWatcherType",
+        "none",
         "--browser.gatherUsageStats",
         "false",
     ]

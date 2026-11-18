@@ -29,7 +29,7 @@ class GroqClient:
                 "or set the GROQ_API_KEY environment variable."
             )
 
-        self.client = Groq(api_key=self.api_key)
+        self.client = Groq(api_key=self.api_key, timeout=30.0)
 
     def generate(
         self,
