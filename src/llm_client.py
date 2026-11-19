@@ -55,12 +55,36 @@ class GroqClient:
             choice = response.choices[0]
             content = choice.message.content
 
-            # Some reasoning models return text in message.content
             if content and content.strip():
                 return content.strip()
 
-            # Fallback if content was empty
+            # If reasoning model consumed tokens and left content empty, fallback to fast Qwen model
+            if self.model != "qwen/qwen3.8-27b":
+                fb_resp = self.client.chat.completions.create(
+                    model="qwen/qwen3.8-27b",
+                    messages=messages,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                )
+                fb_choice = fb_resp.choices[0]
+                if fb_choice.message.content and fb_choice.message.content.strip():
+                    return fb_choice.message.content.strip()
+
             return "Unable to generate response from model."
 
         except Exception as e:
+            # Fallback to high-speed Qwen model if primary model hits rate limit or queue latency
+            if self.model != "qwen/qwen3.8-27b":
+                try:
+                    fb_resp = self.client.chat.completions.create(
+                        model="qwen/qwen3.8-27b",
+                        messages=messages,
+                        temperature=temperature,
+                        max_tokens=max_tokens,
+                    )
+                    fb_choice = fb_resp.choices[0]
+                    if fb_choice.message.content and fb_choice.message.content.strip():
+                        return fb_choice.message.content.strip()
+                except Exception:
+                    pass
             return f"Error communicating with Groq API ({self.model}): {str(e)}"

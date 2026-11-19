@@ -22,8 +22,8 @@ except ImportError:
 # API Keys
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
-# LLM Configuration (Current production models on GroqCloud: openai/gpt-oss-120b, openai/gpt-oss-20b, qwen/qwen3.8-27b)
-GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+# LLM Configuration (Current production models on GroqCloud: qwen/qwen3.8-27b, openai/gpt-oss-120b, openai/gpt-oss-20b)
+GROQ_MODEL = os.getenv("GROQ_MODEL", "qwen/qwen3.8-27b")
 LLM_TEMPERATURE = 0.0
 MAX_RESPONSE_SENTENCES = 3
 
