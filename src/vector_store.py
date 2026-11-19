@@ -61,7 +61,18 @@ class VectorStore:
             torch.set_num_threads(1)
             torch.set_num_interop_threads(1)
 
-            self._embedding_model = SentenceTransformer(self.model_name, device="cpu")
+            is_local = Path(self.model_name).exists()
+            if is_local:
+                self._embedding_model = SentenceTransformer(
+                    self.model_name,
+                    device="cpu",
+                    local_files_only=True,
+                )
+            else:
+                self._embedding_model = SentenceTransformer(
+                    self.model_name,
+                    device="cpu",
+                )
             gc.collect()
         return self._embedding_model
 

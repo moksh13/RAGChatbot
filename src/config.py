@@ -28,7 +28,11 @@ LLM_TEMPERATURE = 0.0
 MAX_RESPONSE_SENTENCES = 3
 
 # Embedding Configuration
-EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+LOCAL_MODEL_DIR = BASE_DIR / "models" / "all-MiniLM-L6-v2"
+if LOCAL_MODEL_DIR.exists():
+    EMBEDDING_MODEL_NAME = str(LOCAL_MODEL_DIR)
+else:
+    EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 EMBEDDING_DIMENSION = 384
 
 # Vector DB Configuration

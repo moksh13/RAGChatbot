@@ -52,6 +52,12 @@ def get_rag_engine() -> RAGEngine:
     gc.collect()
 
     rag_engine = RAGEngine()
+    # Pre-warm embedding model while showing the initial loading spinner
+    try:
+        _ = rag_engine.vector_store.embedding_model
+    except Exception as e:
+        print(f"Warning during model pre-warm: {e}")
+    gc.collect()
     return rag_engine
 
 
